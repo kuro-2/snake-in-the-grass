@@ -46,5 +46,4 @@ Enjoy playing and learning!
 Some Screenshot of game: 
 ![image](https://github.com/user-attachments/assets/b818aa4d-68ce-4568-a733-c82196443dbb)
 
-
-
+![image](https://github.com/user-attachments/assets/4f778d6f-e0e1-4662-8418-a509f280e204)
